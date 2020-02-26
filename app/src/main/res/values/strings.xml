@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Profile</string>
+    <string name="profile">Profile</string>
+    <string name="gallery">Gallery</string>
+    <string name="contact">Contact</string>
+    <string name="setting">Setting</string>
+    <string name="logout">Logout</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="nama">Dani Rycki Dinata</string>
+    <string name="status">Mahasiswa</string>
+    <string name="wa">+6285399689328</string>
+    <string name="github">danirdinata</string>
+    <string name="ig">dani.r.dinata</string>
+</resources>
